@@ -27,7 +27,15 @@ void output ()
 
 }
 
+int main()
+{
 
+    input();
+    output();
+    cout << "Kelilingnya : " << kelilingPersegi
+    (panjang, lebar);
+
+}
 
 
 
