@@ -20,6 +20,14 @@ int kelilingPersegi (int a, int b)
 {
     return 2 * (a + b);
 }
+void output ()
+{
+    cout << "Luasnya :  " << luasPersegi
+    (panjang, lebar) << endl;
+
+}
+
+
 
 
 
